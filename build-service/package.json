@@ -7,7 +7,7 @@
   "dependencies": {
     "@amplitude/node": "^1.10.2",
     "dotenv-defaults": "^2.0.2",
-    "fastify": "^4.25.2",
+    "fastify": "^5.12.5",
     "now-logs": "^0.0.7",
     "package-build-stats": "9.2.3",
     "safe-stable-stringify": "^2.5.0",
